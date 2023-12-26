@@ -1,1 +1,1 @@
-# This is simple Tik Tak Toe game.
+# This is simple Tic Tac Toe game.
